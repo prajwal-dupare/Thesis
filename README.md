@@ -5,7 +5,7 @@ This repository contains the thesis work of **Prajwal Omprakash Dupare**, submit
 
 ## 📄 Thesis Report
 
-- [`MS_Thesis.pdf`](./MS_Thesis.pdf): Final thesis report (PDF)
+**[`MS_Thesis.pdf`](./MS_Thesis.pdf): Final thesis report (PDF)**
 
 ### 📘 Abstract
 
